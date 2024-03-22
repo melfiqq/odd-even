@@ -8,6 +8,6 @@ function evenOrOdd(number) {
   }
 }
 
-console.log(evenOrOdd(5));
+console.log(evenOrOdd(7));
 
 console.log(evenOrOdd(66));
